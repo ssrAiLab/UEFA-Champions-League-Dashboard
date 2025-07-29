@@ -60,7 +60,7 @@ This project blends data, design, and storytelling to highlight the **top perfor
 
 ## 👨‍💻 About Me
 
-**Sahil Singh Rajpüt**  
+**Sahil Raj**  
 Data Analyst | Tableau Specialist | Football Enthusiast ⚽  
 🔗 [LinkedIn](https://www.linkedin.com/in/sahil-raj-36198a250/) | [Kaggle](https://www.kaggle.com/ssrai7) | [Portfolio](#)
 
